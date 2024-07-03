@@ -11,5 +11,4 @@
 # Discord
 - SMDX RedM Framework Discord community: https://discord.gg/FuqTqqreYV
 
-# This version is reworked by SMDX Development
-# 2024
+# This version is reworked by SMDX Development | 2024
